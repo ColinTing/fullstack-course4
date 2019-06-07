@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+# fullstack-course4 
 
-You can use the [editor on GitHub](https://github.com/ColinTing/fullstack-course4/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+此项目为Coursera上"<a href="https://www.coursera.org/learn/html-css-javascript-for-web-developers?specialization=ruby-on-rails">面向 Web 开发者的 HTML、CSS 与 Javascript 课程</a>"课后作业。
+科学的学习方法是通过不同场景下对知识应用达到对知识的掌握。这里通过听课，自己的刻意练习及完成课后作业来实践科学的学习方法。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## fullstack-course4 assignment2
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ColinTing/fullstack-course4/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<a href="https://colinting.github.io/fullstack-course4/mod2_solution/">Module2 Solution</a>
