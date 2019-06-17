@@ -26,4 +26,4 @@
 
 <a href="https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md">Module 5 Coding Assignment</a>
 
-<a href="https://colinting.github.io/fullstack-course4/mod5_solution/">My Module4 Solution</a>
+<a href="https://colinting.github.io/fullstack-course4/mod5_solution/">My Module5 Solution</a>
